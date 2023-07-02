@@ -7,7 +7,7 @@ import spinSvg from "../images/spinner.svg";
 
 const UserRow: React.FC<{ data: UserData, key: number }> = ({ data, key } ) => {
     return (<>
-        <div className="col-6 col-lg-4 col-xl-3 pt-3">
+        <div id={ key.toString() } className="col-6 col-lg-4 col-xl-3 pt-3">
             <div className="card">
                 <div className="card-body shadow">
                     <div className="text-center">

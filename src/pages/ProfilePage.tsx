@@ -184,7 +184,7 @@ function ProfilePage() {
                                 <tbody>
                                 <tr>
                                     <td className="text-start text-uppercase">
-                                        <Link to="/"><img src={goback}alt="next"/></Link> Back
+                                        <Link to="/"><img src={goback} alt="next"/></Link> Back
                                     </td>
                                     <td className="text-end text-uppercase">
                                         Open in GitHub <a href={userData.html_url} target="_blank" rel="noreferrer">

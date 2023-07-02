@@ -5,7 +5,7 @@ This demo app is written by [Shakeel Ahmed](https://ishakeel.com).
 ## About App
 
 This is a simple app written in TypeScript using the ReactJS framework to fetch GitHub users' data
-connecting from the GitHub Server. It will give you details that are a little time-consuming to search
+from the GitHub Server. It will give you details that are a little time-consuming to search
 related to GitHub users like personal blogs, Twitter accounts, email, etc.
 
 ### Redux
